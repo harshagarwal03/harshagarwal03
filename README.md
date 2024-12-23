@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harshagarwal
+- 👋 Hi, I’m Harsh Agarwal
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 📫 How to reach me my mail id @harshag.pkr@gmail.com
+- 🌱 I’m currently a full stack developer
+- 📫 How to reach me?, my mail id - @harshag.pkr@gmail.com
 
 <!---
 harshagarwal03/harshagarwal03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
